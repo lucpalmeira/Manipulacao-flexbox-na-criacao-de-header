@@ -1,0 +1,47 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.header1 {
+  background-color: #56b846;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 130px;
+}
+
+.buttonstyle1 {
+  background-color: transparent;
+  border-color: transparent;
+  color: white;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.size {
+  width: 40px;
+  cursor: pointer;
+}
+
+.header2 {
+  background-color: #009b4e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 35px;
+  gap: 70px;
+}
+.imageima {
+  cursor: pointer;
+}
+
+.buttonstyle2 {
+  background-color: transparent;
+  border: transparent;
+  color: white;
+
+  padding: 5px;
+  cursor: pointer;
+}
